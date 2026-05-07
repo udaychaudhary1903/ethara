@@ -110,7 +110,7 @@ python manage.py runserver
 ## 🗂️ Project Structure
 
 ```
-shreyansh-task1/
+etharaai/
 ├── admin_dashboard/           # Main project settings
 ├── accounts/                  # User management & authentication
 │   ├── models.py             # User, UserProfile models
