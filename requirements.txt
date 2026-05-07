@@ -7,3 +7,4 @@ Pillow==10.4.0
 django-crispy-forms==2.3
 crispy-bootstrap5==2024.10
 setuptools
+gunicorn
